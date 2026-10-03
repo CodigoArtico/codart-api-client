@@ -80,8 +80,8 @@ php artisan key:generate
 ```
 
 ### 4. Obtener e Ingresar tu Token de API Codart
-1. Ve a la documentación oficial y portal de Codart API: 👉 **[https://api-codart.cgrt.org/documentacion](https://api-codart.cgrt.org/documentacion)**
-2. Genera o copia tu **API Token**.
+1. Ve a la documentación oficial y portal de Codart API: 👉 **[https://api-codart.cgrt.org/documentation](https://api-codart.cgrt.org/documentation)**
+2. Para generar tu token gratuito, ingresa a **[https://api-codart.cgrt.org/](https://api-codart.cgrt.org/)** e inicia sesión con Google o GitHub. Copia tu **API Token**.
 3. Abre tu archivo `.env` y coloca el token en la variable `CODART_API_TOKEN`:
 
 ```env
